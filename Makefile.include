@@ -1,7 +1,11 @@
 ###
 ### generic GNU make Makefile for .tex -> .pdf.
+### Original: 
 ### ransford at cs.washington.edu
-###   http://github.com/ransford/pdflatex-makefile
+### http://github.com/ransford/pdflatex-makefile
+### Forked:
+### manishpmathai at gmail.com
+### https://github.com/goodbadwolf/pdflatex-makefile
 ###
 ### Recommended usage:
 ###   1. echo 'include Makefile.include' > Makefile
